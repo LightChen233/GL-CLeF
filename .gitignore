@@ -1,0 +1,12 @@
+.idea/
+target/
+*/__pycache__/
+.DS_Store
+*/.DS_Store
+test/
+MultiATIS_toy.v0.1/
+logs/*
+saved_model/*
+out/*
+__pycache__/
+utils/preprocess/__pycache__/
